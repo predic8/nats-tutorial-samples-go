@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/nats-demos.iml" filepath="$PROJECT_DIR$/nats-demos.iml" />
+      <module fileurl="file://$PROJECT_DIR$/publisher/publisher.iml" filepath="$PROJECT_DIR$/publisher/publisher.iml" />
+      <module fileurl="file://$PROJECT_DIR$/prime/requestor/requestor.iml" filepath="$PROJECT_DIR$/prime/requestor/requestor.iml" />
+      <module fileurl="file://$PROJECT_DIR$/prime/service/service.iml" filepath="$PROJECT_DIR$/prime/service/service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/subscriber/subscriber.iml" filepath="$PROJECT_DIR$/subscriber/subscriber.iml" />
+      <module fileurl="file://$PROJECT_DIR$/util/util.iml" filepath="$PROJECT_DIR$/util/util.iml" />
+    </modules>
+  </component>
+</project>
